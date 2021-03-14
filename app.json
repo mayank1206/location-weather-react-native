@@ -1,0 +1,12 @@
+{
+  "name": "Location",
+  "displayName": "Location",
+  "expo": {
+    "name": "Location",
+    "slug": "Location",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
